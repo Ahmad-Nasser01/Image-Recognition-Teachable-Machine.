@@ -26,7 +26,7 @@ The model was deployed using a Python script inside a Google Colab environment. 
 ## 4. Verification & Final Results
 To verify the system, a test image of a lion was passed through the pipeline. The script successfully executed the forward pass and outputted the correct classification:
 * **Predicted Class:** Lion
-* **Confidence Score:** 99.97% (`0.99975914`)
+* **Confidence Score:** 99.97% (`0.99975914`) 
 
 This high confidence score indicates that the model successfully extracted the core visual boundaries between the two categories.
 
