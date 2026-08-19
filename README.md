@@ -14,7 +14,7 @@ The model was trained directly in the browser, evaluating features from the trai
 
 ## 2. Model Exportation
 Once training achieved optimal training metrics, the model was exported in the **TensorFlow -> Keras** format. This generated two critical files included in this repository:
-* `keras_model.h5`: Contains the trained weights and model architecture.
+* `keras_model.h5`: Contains the trained weights and model architecture. 
 * `labels.txt`: Contains the indexed class names (`0 Lion`, `1 Tiger`).
 
 ## 3. Python Implementation & Preprocessing
